@@ -1,3 +1,4 @@
+![Screenshot from 2022-12-26 15-09-15](https://user-images.githubusercontent.com/118071431/209580924-5ab6638b-b1d9-4468-9b99-ee35979f4fcc.png)
 # Looking
 Python Tool
 This tool is a Python OSINT (Open-Source Intelligence Tool) for finding information on people that you do not know, but have only a social media/site username of the target.
